@@ -63,7 +63,6 @@ nano docker-compose.yaml
 - `ports`: You can replace `3010` & `3011` if they have conflict
 
 ```
----
 
 services:
   chromium-host:
